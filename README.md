@@ -6,7 +6,7 @@ Workshop exercise solutions: https://colab.research.google.com/drive/1Bq27Tprs6O
 
 Clone/download this repository and upload the files into your Google Colab notebook. 
 
-### Workshop date: Saturday, April 10th, 3pm - 4:30pm
+### Workshop date: Saturday, April 10th 2021, 3pm - 4:30pm
 ### Where: Zoom 
 
 # Our Team
